@@ -13,3 +13,11 @@ Direct Messaging for no valid reason, or inappropriate reasons...
 ```
 
 <br> Rhyme developers are here to support you guys, and help you with anything you need. We have a modmail support for a reason, it's to help you guys out, and not interfer with any inappropriate content through Direct Messages! <br> 
+
+## Usage #2
+
+```js
+Spamming Backup
+```
+
+<br> This bot allows you to create a backup for your server, if you intend to keep spamming this command, you will be permanently blacklisted as this affects everyone using this bot! <br>
