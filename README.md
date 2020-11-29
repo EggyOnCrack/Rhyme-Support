@@ -21,3 +21,7 @@ Spamming Backup
 ```
 
 <br> This bot allows you to create a backup for your server, if you intend to keep spamming this command, you will be permanently blacklisted as this affects everyone using this bot! <br>
+
+# License
+
+# This bot is under control by a controlled license...
